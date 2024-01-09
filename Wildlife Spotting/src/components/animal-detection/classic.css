@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Prevent items from wrapping to the next line */
+  }
+  
+  /* If you want to hide the vertical scroll bar, you can use the following */
+  .container::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .arrow {
+    color: blue;
+    border: none;
+    background-color: white; 
+  }
+
+  .arrow:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out; 
+  }
+  
+  .item:hover {
+    transform: scale(1.1); /* You can adjust the scale factor as needed */
+    transition: transform 0.3s ease-in-out; /* Adjust the transition duration and timing function as needed */
+  }
+
