@@ -25,7 +25,7 @@
 
 *Example of dataset used for emotion detection training.*
 
-![Data Visualization Screenshot](https://res.cloudinary.com/dt8idppf9/image/upload/v1729054617/Screenshot_2024-10-16_102442_n8kgdx.png)
+![Data Visualization Screenshot](https://res.cloudinary.com/dt8idppf9/image/upload/v1729055605/Screenshot_2024-10-16_104311_xypvy0.png)
 
 *Visualization of emotions distribution in the dataset.*
 
